@@ -32,8 +32,8 @@ def test():
  
     led3_pin(1)          【开启led3号灯】  
     time.sleep_ms(400)  【延迟推进400毫秒】  
-    led3_pin(0)     【关闭led3号灯】  
-    time.sleep_ms(400)    【延迟推进400毫秒】 
+    led3_pin(0)     【关闭led3号灯】   
+    time.sleep_ms(400)    【延迟推进400毫秒】  
  
     led0_pin(1)   【开启led0号灯】  
     time.sleep_ms(400)   【延迟推进400毫秒】  
